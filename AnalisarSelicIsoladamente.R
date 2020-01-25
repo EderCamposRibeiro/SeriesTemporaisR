@@ -172,7 +172,7 @@ autoplot(previsao)
 #  meu problema esta aqui!
 #
 #       Como fazer para plotar o gráfico desta previsão de arima com diferenciação
-#       com os valores "normais", ou seja, a taxa variam na série entre 40%aa e 4,5%aa(valor atual)
+#       com os valores "normais", ou seja, a taxa varia na série entre 40%aa e 4,5%aa(valor atual)
 #       gostaria que minhas previsões ficassem nessa faixa e não variando entre -10 e 10.
 #
 #########################################
